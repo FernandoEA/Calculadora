@@ -19,6 +19,7 @@ public class Test {
 		
 		c.setOperacion(Operaciones.valueOf(operacion));
 		System.out.println(c.resultado(ope1,ope2));
+		
 	}
 	
 	
